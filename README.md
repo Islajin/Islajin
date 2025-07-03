@@ -1,6 +1,6 @@
 <div align=center>
 🍎
-<h2>  Apple Developer Academy @ postech 기록용  </h2>
+<h2>  Hi :) I'm Isla </h2>
 
 
 </br>
