@@ -1,5 +1,5 @@
 <div align=center>
-🍎
+
 <h2>  Hi :) I'm Isla </h2>
 
 </br>
